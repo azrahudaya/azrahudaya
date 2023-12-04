@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azrahudaya&label=Profile%20views&color=0e75b6&style=flat" alt="azrahudaya" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Android & other programming languages**
 
 - 💬 Ask me about **Design Visual**
 
