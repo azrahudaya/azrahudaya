@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Azra Hudaya</h1>
+<h1 align="center">Hi 👋, I'm Azra Hudaya</h1>
 <h3 align="center">Freelance Graphic Designer & Undergraduate Student from Depok, ID</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azrahudaya&label=Profile%20views&color=0e75b6&style=flat" alt="azrahudaya" /> </p>
 
-- 🌱 I’m currently learning **Frameworks and other Programming Languages**
+- 🌱 I’m currently learning **Frameworks**
 
 - 💬 Ask me about **Design Visual**
 
