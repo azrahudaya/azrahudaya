@@ -1,3 +1,4 @@
+[![MasterHead](https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif)](https://azrahudaya.github.io)
 <h1 align="center">Hi 👋, I'm Azra Hudaya</h1>
 <h3 align="center">Freelance Graphic Designer & Undergraduate Student from Depok, ID</h3>
 
