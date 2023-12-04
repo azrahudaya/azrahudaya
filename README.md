@@ -1,6 +1,7 @@
-[![MasterHead](https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif)](https://azrahudaya.github.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi278FA6twoBRVySDLT8qQCTO7UZ27s5WSEAq6nT3nxcbolowQMfQ0eZ5G8KeWx_oJR_IwywCy5E37XmjEF6PQRWVFfa0xl_PycMcZIpw4zHmequkLB9jZV0SGFLaTL0xrDtC_Mx9n-NhDSSdkqkl1nf1ypV3uuLNgBiIGhKNwSE24NfBywCUpUqX7yNAEr/s16000/code-bannerr.gif)](https://azrahudaya.github.io)
 <h1 align="center">Hi 👋, I'm Azra Hudaya</h1>
 <h3 align="center">Freelance Graphic Designer & Undergraduate Student from Depok, ID</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azrahudaya&label=Profile%20views&color=0e75b6&style=flat" alt="azrahudaya" /> </p>
 
