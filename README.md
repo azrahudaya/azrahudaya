@@ -7,26 +7,23 @@
                                                |___/        |/ 
 </pre>
 
-tech enthusiast • designer • builder  
+<p align="center">
+tech enthusiast • designer • builder
+</p>
 
-i enjoy exploring technology, designing digital experiences, and building things on the web.
+<p align="center">
+<a href="https://www.behance.net/azrahudaya">
+<img src="https://img.shields.io/badge/design%20portfolio-behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
 
----
+<a href="https://azrahudaya.github.io">
+<img src="https://img.shields.io/badge/web%20portfolio-visit%20site-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-### 🔗 portfolio
-
-🎨 design  
-https://www.behance.net/azrahudaya  
-
-🌐 web  
-https://azrahudaya.github.io  
-
-🤖 ai / ml  
-https://github.com/azrahudaya  
-
----
-
-### 😄 developer mood
+<a href="https://github.com/azrahudaya">
+<img src="https://img.shields.io/badge/ai%20%2F%20ml-projects-222222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220">
