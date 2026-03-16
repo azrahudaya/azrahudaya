@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋 I'm Azra Hudaya</h1>
+<pre>
+                       _               _                       
+  __ _ _____ __ __ _  | |__  _   _  __| | __ _ _   _  __ _   _ 
+ / _` |_  / '__/ _` | | '_ \| | | |/ _` |/ _` | | | |/ _` | (_)
+| (_| |/ /| | | (_| | | | | | |_| | (_| | (_| | |_| | (_| |  _ 
+ \__,_/___|_|  \__,_| |_| |_|\__,_|\__,_|\__,_|\__, |\__,_| ( )
+                                               |___/        |/ 
+</pre>
 
-<p align="center">
-tech enthusiast • designer • builder
-</p>
+tech enthusiast • designer • builder  
 
-<p align="center">
-i like exploring technology, building things with code, and designing digital experiences.
-</p>
+i enjoy exploring technology, designing digital experiences, and building things on the web.
 
 ---
 
@@ -23,10 +26,10 @@ https://github.com/azrahudaya
 
 ---
 
-### 🧠 current mood
+### 😄 developer mood
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220">
 </p>
 
 <p align="center">
