@@ -22,13 +22,13 @@
 
 </td>
 
-<td width="65%" valign="top">
+<td width="65%" valign="middle" align="center">
 
-<p>
+<p align="center">
 20 yo it consultant & compsci student at universitas gunadarma.
 </p>
 
-<p>
+<p align="center">
 mostly private client work. selected public projects and technical interests below.
 </p>
 
@@ -42,10 +42,10 @@ mostly private client work. selected public projects and technical interests bel
 
 | sector | organizations |
 | --- | --- |
-| education & research | <img src="https://img.shields.io/badge/poltekkes_kemenkes_tasikmalaya-2563eb?style=flat-square&logo=googleclassroom&logoColor=white" alt="poltekkes kemenkes tasikmalaya"> <img src="https://img.shields.io/badge/universitas_gunadarma-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="universitas gunadarma"> <img src="https://img.shields.io/badge/universitas_terbuka-0f766e?style=flat-square&logo=bookstack&logoColor=white" alt="universitas terbuka"> |
-| government & public services | <img src="https://img.shields.io/badge/kementerian_pupr-1d4ed8?style=flat-square&logo=government&logoColor=white" alt="kementerian pupr"> |
-| transportation | <img src="https://img.shields.io/badge/mikrotrans_transjakarta-0f766e?style=flat-square&logo=bus&logoColor=white" alt="mikrotrans transjakarta"> |
-| property & corporate operations | <img src="https://img.shields.io/badge/triyasa_propertindo-7c3aed?style=flat-square&logo=building&logoColor=white" alt="triyasa propertindo"> |
+| education & research | <img src="https://img.shields.io/badge/poltekkes_kemenkes_tasikmalaya-1479c9?style=flat-square&logo=googleclassroom&logoColor=white" alt="poltekkes kemenkes tasikmalaya"> <img src="https://img.shields.io/badge/universitas_gunadarma-6b21a8?style=flat-square&logo=academia&logoColor=white" alt="universitas gunadarma"> <img src="https://img.shields.io/badge/universitas_terbuka-f28c28?style=flat-square&logo=bookstack&logoColor=white" alt="universitas terbuka"> |
+| government & public services | <img src="https://img.shields.io/badge/kementerian_pupr-16803c?style=flat-square&logo=government&logoColor=white" alt="kementerian pupr"> |
+| transportation | <img src="https://img.shields.io/badge/mikrotrans_transjakarta-e21d2f?style=flat-square&logo=bus&logoColor=white" alt="mikrotrans transjakarta"> |
+| property & corporate operations | <img src="https://img.shields.io/badge/triyasa_propertindo-176b87?style=flat-square&logo=building&logoColor=white" alt="triyasa propertindo"> |
 
 ### what i do
 
