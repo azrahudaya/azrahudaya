@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/azra.gif" width="100%" alt="azra">
+</p>
+
 <table>
 <tr>
 <td width="35%" valign="top">
@@ -7,7 +11,7 @@
 <p>
   <b>it consultant</b><br>
   full-stack developer<br>
-  informatics student
+  compsci student
 </p>
 
 <p>
@@ -19,8 +23,6 @@
 </td>
 
 <td width="65%" valign="top">
-
-<img src="assets/azra.gif" width="300" alt="azra">
 
 <p>
 20 yo it consultant & compsci student at universitas gunadarma.
