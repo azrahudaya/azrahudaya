@@ -42,8 +42,8 @@ Most client work is private. This profile shows selected public work and technic
 | --- | --- |
 | education & research | <img src="https://www.google.com/s2/favicons?domain=poltekkestasikmalaya.ac.id&sz=32" width="20" alt=""> Poltekkes Kemenkes Tasikmalaya · <img src="https://www.google.com/s2/favicons?domain=gunadarma.ac.id&sz=32" width="20" alt=""> Universitas Gunadarma · <img src="https://www.google.com/s2/favicons?domain=ut.ac.id&sz=32" width="20" alt=""> Universitas Terbuka |
 | government & public services | <img src="https://www.google.com/s2/favicons?domain=pu.go.id&sz=32" width="20" alt=""> Kementerian PUPR |
-| transportation | <img src="https://www.google.com/s2/favicons?domain=transjakarta.co.id&sz=32" width="20" alt=""> Mikrotrans Transjakarta |
-| property & corporate operations | <img src="https://www.google.com/s2/favicons?domain=triyasapropertindo.com&sz=32" width="20" alt=""> Triyasa Propertindo |
+| transportation | <img src="https://img.shields.io/badge/Mikrotrans_Transjakarta-0f766e?style=flat-square&logo=bus&logoColor=white" height="20" alt="Mikrotrans Transjakarta"> |
+| property & corporate operations | <img src="https://img.shields.io/badge/Triyasa_Propertindo-7c3aed?style=flat-square&logo=building&logoColor=white" height="20" alt="Triyasa Propertindo"> |
 
 ### what i do
 
