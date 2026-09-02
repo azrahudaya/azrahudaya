@@ -10,13 +10,11 @@
   Informatics student
 </p>
 
-<a href="mailto:hi@azrahudaya.me">
-  <img src="https://img.shields.io/badge/email-contact%20me-111827?style=flat-square&logo=gmail&logoColor=white" alt="email">
-</a>
-<br>
-<a href="https://azrahudaya.me">
-  <img src="https://img.shields.io/badge/website-azrahudaya.me-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="website">
-</a>
+<p>
+  <a href="mailto:hi@azrahudaya.me"><img src="https://img.shields.io/badge/email-hi%40azrahudaya.me-111827?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
+  <a href="https://azrahudaya.me"><img src="https://img.shields.io/badge/website-azrahudaya.me-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="website"></a>
+  <a href="https://linkedin.com/in/azrahudaya"><img src="https://img.shields.io/badge/linkedin-azrahudaya-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+</p>
 
 </td>
 
