@@ -23,18 +23,12 @@
 <h2>hi, i'm azra</h2>
 
 <p>
-I'm a 20-year-old IT consultant and Informatics student at Universitas Gunadarma.
-I help organizations turn business needs into practical digital systems.
+20-year-old IT consultant and Informatics student at Universitas Gunadarma,
+building practical digital systems for organizations.
 </p>
 
 <p>
-My work covers business analysis, system design, full-stack development,
-automation, testing, documentation, and technical handover.
-</p>
-
-<p>
-Most of my client work is private, so this profile highlights selected public work
-and my approach to building useful systems.
+Most client work is private. This profile shows selected public work and technical interests.
 </p>
 
 </td>
@@ -62,14 +56,30 @@ and my approach to building useful systems.
 
 ### technology
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,tailwind,mysql,postgres,git,github,figma" alt="technologies">
-</p>
+**languages**<br>
+JavaScript · TypeScript · Python · SQL
 
-<p>
-Also working with Microsoft Power Platform, Power Apps, Power BI,
-SharePoint, Azure, Oracle, Firebase, and cloud services.
-</p>
+**frontend**<br>
+React · Tailwind CSS · HTML · CSS
+
+**backend & api**<br>
+Node.js · Express.js · REST API
+
+**database**<br>
+MySQL · PostgreSQL · Oracle Database
+
+**cloud & business systems**<br>
+Microsoft Power Platform · Power Apps · Power BI · SharePoint · Azure · Alibaba Cloud · Tencent Cloud · Firebase
+
+**ai & machine learning**<br>
+Machine Learning · OpenAI API · Whisper
+
+**design**<br>
+Figma · UI/UX Design · Prototyping
+
+**tools**<br>
+Git · GitHub
+
 
 ### selected work
 
