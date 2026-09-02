@@ -2,6 +2,10 @@
   <img src="assets/azra.gif" width="100%" alt="azra">
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/azrahudaya/count.svg" alt="Profile visits counter">
+</p>
+
 <table>
 <tr>
 <td width="35%" valign="top">
