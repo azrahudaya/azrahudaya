@@ -5,9 +5,9 @@
 <h1>azra hudaya</h1>
 
 <p>
-  <b>IT consultant</b><br>
-  Full-stack developer<br>
-  Informatics student
+  <b>it consultant</b><br>
+  full-stack developer<br>
+  informatics student
 </p>
 
 <p>
@@ -20,14 +20,14 @@
 
 <td width="65%" valign="top">
 
-<h2>hi, i'm azra</h2>
+<img src="assets/azra.gif" width="300" alt="azra">
 
 <p>
-20-year-old IT consultant and Informatics student at Universitas Gunadarma.
+20 yo it consultant & compsci student at universitas gunadarma.
 </p>
 
 <p>
-Most client work is private. This profile shows selected public work and technical interests.
+mostly private client work. selected public projects and technical interests below.
 </p>
 
 </td>
@@ -40,18 +40,18 @@ Most client work is private. This profile shows selected public work and technic
 
 | sector | organizations |
 | --- | --- |
-| education & research | <img src="https://www.google.com/s2/favicons?domain=poltekkestasikmalaya.ac.id&sz=32" width="20" alt=""> Poltekkes Kemenkes Tasikmalaya · <img src="https://www.google.com/s2/favicons?domain=gunadarma.ac.id&sz=32" width="20" alt=""> Universitas Gunadarma · <img src="https://www.google.com/s2/favicons?domain=ut.ac.id&sz=32" width="20" alt=""> Universitas Terbuka |
-| government & public services | <img src="https://www.google.com/s2/favicons?domain=pu.go.id&sz=32" width="20" alt=""> Kementerian PUPR |
-| transportation | <img src="https://img.shields.io/badge/Mikrotrans_Transjakarta-0f766e?style=flat-square&logo=bus&logoColor=white" height="20" alt="Mikrotrans Transjakarta"> |
-| property & corporate operations | <img src="https://img.shields.io/badge/Triyasa_Propertindo-7c3aed?style=flat-square&logo=building&logoColor=white" height="20" alt="Triyasa Propertindo"> |
+| education & research | <img src="https://img.shields.io/badge/poltekkes_kemenkes_tasikmalaya-2563eb?style=flat-square&logo=googleclassroom&logoColor=white" alt="poltekkes kemenkes tasikmalaya"> <img src="https://img.shields.io/badge/universitas_gunadarma-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="universitas gunadarma"> <img src="https://img.shields.io/badge/universitas_terbuka-0f766e?style=flat-square&logo=bookstack&logoColor=white" alt="universitas terbuka"> |
+| government & public services | <img src="https://img.shields.io/badge/kementerian_pupr-1d4ed8?style=flat-square&logo=government&logoColor=white" alt="kementerian pupr"> |
+| transportation | <img src="https://img.shields.io/badge/mikrotrans_transjakarta-0f766e?style=flat-square&logo=bus&logoColor=white" alt="mikrotrans transjakarta"> |
+| property & corporate operations | <img src="https://img.shields.io/badge/triyasa_propertindo-7c3aed?style=flat-square&logo=building&logoColor=white" alt="triyasa propertindo"> |
 
 ### what i do
 
-- IT consulting and business process analysis
-- Requirements gathering and functional specification
-- Internal business systems and full-stack web applications
-- Workflow automation and dashboards
-- UAT, documentation, and handover
+- it consulting and business process analysis
+- requirements gathering and functional specification
+- internal business systems and full-stack web applications
+- workflow automation and dashboards
+- uat, documentation, and handover
 
 ### technology
 
@@ -82,15 +82,15 @@ Most client work is private. This profile shows selected public work and technic
 
 ### selected work
 
-- Payroll and fleet management system for Mikrotrans operations
-- Digital antenatal education platform
-- WhatsApp-based maternal health reminder system
-- Multi-role fundraising platform
-- Internal business systems and reporting workflows
+- payroll and fleet management system for mikrotrans operations
+- digital antenatal education platform
+- whatsapp-based maternal health reminder system
+- multi-role fundraising platform
+- internal business systems and reporting workflows
 
 ### currently
 
-- Completing my bachelor's degree in Informatics
-- Working on private client projects
-- Building my path as an independent IT consultant
-- Exploring business systems, automation, digital health, and applied AI
+- completing my bachelor's degree in informatics
+- working on private client projects
+- building my path as an independent it consultant
+- exploring business systems, automation, digital health, and applied ai
